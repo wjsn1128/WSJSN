@@ -1,0 +1,5 @@
+﻿  坦克.cpp
+D:\project\坦克\坦克.cpp(153,20): warning C4552: ”-“: 未使用表达式结果
+D:\project\坦克\坦克.cpp(165,20): warning C4552: ”-“: 未使用表达式结果
+D:\project\坦克\坦克.cpp(363,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  坦克.vcxproj -> D:\project\坦克\Debug\坦克.exe

@@ -1,0 +1,2 @@
+D:\project\坦克\Debug\坦克.exe
+D:\project\坦克\Debug\坦克.pdb
